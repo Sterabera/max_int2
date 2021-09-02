@@ -17,9 +17,8 @@ Push your changes to the remote repo with: git push
 Inspect your commits on github
 """
 
-1 - Biðja notanda um tölu sú tala segir til um hversu margar tölur við birtum
-2 - fyrstu tvær tölurnar eru lagðar saman og gefa þriðju töluna
-3 - þá dettur fyrsta talan út þannig að tala nr. 2 og 3 verða að tölu 1 tala 1 og 2 verða að tölu 3,
-
+# 1 - Biðja notanda um tölu sú tala segir til um hversu margar tölur við birtum
+# 2 - fyrstu tvær tölurnar eru lagðar saman og gefa þriðju töluna
+# 3 - þá dettur fyrsta talan út þannig að tala nr. 2 og 3 verða að tölu 1 tala 1 og 2 verða að tölu 3,
 
 n = int(input("Enter the length of the sequence: "))  # Do not change this line
